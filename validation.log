@@ -1,0 +1,7 @@
+
+╔════════════════════════════════════════════════════════════════╗
+║  GTA6 Companion iOS - Xcode & Simulator Validation             ║
+╚════════════════════════════════════════════════════════════════╝
+
+[0;34m═══ Step 1: Environment Setup ═══[0m
+Checking: Xcode installed... [0;32m✅ PASS[0m
